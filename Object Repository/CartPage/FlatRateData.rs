@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>FlatRateData</name>
+   <tag></tag>
+   <elementGuidId>364a0818-3165-4ab0-875f-4a890376a569</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@for=&quot;shipping_method_0_flat_rate2&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Flat rate: $20.00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c322744f-a05c-4afd-b03b-30c41a8bef04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>shipping_method_0_flat_rate2</value>
+      <webElementGuid>8565d1a2-f03e-4286-8858-158f7ae66761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flat rate: $20.00</value>
+      <webElementGuid>8cb15701-5e03-424b-851c-849aa51b83b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shipping_method&quot;)/li[1]/label[1]</value>
+      <webElementGuid>7132b955-edd8-48cf-a5c1-00f7e273d125</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='shipping_method']/li/label</value>
+      <webElementGuid>e57181c5-94b8-482e-88dd-20112c1be025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping'])[1]/following::label[1]</value>
+      <webElementGuid>5e38ad95-2bf6-41c3-9633-d1ecf7e49899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[5]/following::label[1]</value>
+      <webElementGuid>4755eac2-84c8-4e4d-9eb1-6abffb927530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indonesia'])[1]/preceding::label[1]</value>
+      <webElementGuid>5225bad6-1ab2-4ad5-b384-cc48a38f45ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Flat rate:']/parent::*</value>
+      <webElementGuid>2de7ad48-2a1f-4213-b3d9-7bc9ac1a68d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/label</value>
+      <webElementGuid>3ed59ca6-4f40-4087-9efa-a6814d0bac55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Flat rate: $20.00' or . = 'Flat rate: $20.00')]</value>
+      <webElementGuid>1b7616b1-5403-4e65-884a-7bd4422750b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
