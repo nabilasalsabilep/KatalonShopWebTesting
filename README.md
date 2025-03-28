@@ -33,40 +33,45 @@ In this repository, I created test scripts for one of the testing websites, Kata
 ### **Test 3: Add to Cart with Coupon Code 🎟️🛒**
 **Objective:** Ensure that users can successfully apply a coupon code while adding items to the cart.
 **Steps:**
-1. Add products to the cart.
-2. Enter a valid coupon code.
-3. Verify that the discount is applied to the total price.
+1. Navigate to the products page.
+2. Add products to the cart.
+3. Enter a valid coupon code.
+4. Verify that the discount is applied to the total price.
 
 ### **Test 4: Update Cart 🔄🛒**
 **Objective:** Confirm that users can update the quantity of products in the cart.
 **Steps:**
-1. Add products to the cart.
-2. Modify the quantity of selected products.
-3. Verify that the updated quantity is reflected in the cart total.
+1. Navigate to the products page.
+2. Add products to the cart.
+3. Modify the quantity of selected products.
+4. Verify that the updated quantity is reflected in the cart total.
 
 ### **Test 5: Checkout with User Address 📦🏠**
 **Objective:** Ensure that users can complete the checkout process using their saved address.
 **Steps:**
-1. Add products to the cart.
-2. Proceed to checkout.
-3. Use the saved user address for delivery.
-4. Verify that the order confirmation page is displayed.
+1. Navigate to the products page.
+2. Add products to the cart.
+3. Proceed to checkout.
+4. Use the saved user address for delivery.
+5. Verify that the order confirmation page is displayed.
 
 ### **Test 6: Checkout with a Different Shipping Address 📦🚚**
 **Objective:** Validate that users can use a different shipping address during checkout.
 **Steps:**
-1. Add products to the cart.
-2. Proceed to checkout.
-3. Enter a different shipping address.
-4. Verify that the order confirmation reflects the new address.
+1. Navigate to the products page.
+2. Add products to the cart.
+3. Proceed to checkout.
+4. Enter a different shipping address.
+5. Verify that the order confirmation reflects the new address.
 
 ### **Test 7: Checkout with Coupon Code 🎟️💳**
 **Objective:** Ensure that users can apply a coupon code at checkout.
 **Steps:**
-1. Add products to the cart.
-2. Proceed to checkout.
-3. Enter a valid coupon code.
-4. Verify that the discount is applied and the final total reflects the new price.
+1. Navigate to the products page.
+2. Add products to the cart.
+3. Proceed to checkout.
+4. Enter a valid coupon code.
+5. Verify that the discount is applied and the final total reflects the new price.
 
 ## Objectives 🎯
 Through these test scripts, the main objectives are:
