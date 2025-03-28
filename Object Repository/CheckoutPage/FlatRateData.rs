@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//label[@for='shipping_method_0_flat_rate2']/span[@class='woocommerce-Price-amount amount']</value>
+         <value>//label[@for=&quot;shipping_method_0_flat_rate2&quot;]/span[@class=&quot;woocommerce-Price-amount amount&quot;]</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

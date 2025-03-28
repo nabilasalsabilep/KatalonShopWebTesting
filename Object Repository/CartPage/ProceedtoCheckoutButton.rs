@@ -6,12 +6,12 @@
    <elementGuidId>35ac95c1-c4f5-4e88-8032-84d2a556377e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.checkout-button.button.alt.wc-forward</value>
+         <key>XPATH</key>
+         <value>//a[@class='checkout-button button alt wc-forward']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//article[@id='post-8']/div/div/div[2]/div[2]/div/a</value>
+         <key>CSS</key>
+         <value>a.checkout-button.button.alt.wc-forward</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>023e0812-71e1-434e-ba85-7b8a068141f7</webElementGuid>
+      <webElementGuid>960a7e6b-c2b0-4d9d-8591-2c7cff1e18d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://cms.demo.katalon.com/checkout/</value>
-      <webElementGuid>cd3eafd9-c5b0-4da3-a9d3-80ac6d1d4a57</webElementGuid>
+      <webElementGuid>26c59bda-3e46-45cd-9c0a-d10bc44c033e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkout-button button alt wc-forward</value>
-      <webElementGuid>126794ae-4a4b-4281-b58e-a16f1e6638da</webElementGuid>
+      <webElementGuid>d3ebad13-ddf9-44e7-b021-2f4163185b7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <type>Main</type>
       <value>
 	Proceed to checkout</value>
-      <webElementGuid>88795439-8485-4a97-aff2-84acd25df6c6</webElementGuid>
+      <webElementGuid>0f1e340b-85eb-4ebc-90cb-c0a464c31620</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;post-8&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;cart-collaterals&quot;]/div[@class=&quot;cart_totals&quot;]/div[@class=&quot;wc-proceed-to-checkout&quot;]/a[@class=&quot;checkout-button button alt wc-forward&quot;]</value>
-      <webElementGuid>5f3ae1a3-eeb0-4846-84d0-93dfe0a3a920</webElementGuid>
+      <webElementGuid>b3c3260d-ed94-423a-a37f-25d8f8cf1793</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//article[@id='post-8']/div/div/div[2]/div[2]/div/a</value>
-      <webElementGuid>c16d19e8-224f-4c90-b824-4a2ea8b9fcf5</webElementGuid>
+      <webElementGuid>ddda7677-7ae5-4bf8-8be8-3a22d1a4e35e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Proceed to checkout')]</value>
-      <webElementGuid>db369817-06c6-434e-b949-537b8287af9c</webElementGuid>
+      <webElementGuid>80f6ba4f-3864-4067-a940-eb78d9f55bd0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='$'])[7]/following::a[1]</value>
-      <webElementGuid>ecbde4cc-c8fc-4607-b1b2-be2ca7a39147</webElementGuid>
+      <webElementGuid>29c80918-1bfe-4e4f-8970-8d4458490118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[2]/following::a[1]</value>
-      <webElementGuid>1d7c6e05-0d78-4c66-b178-ab3dd1952cbd</webElementGuid>
+      <webElementGuid>ada63779-3d58-44a9-a0a7-51aaa7d8c132</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for:'])[1]/preceding::a[1]</value>
-      <webElementGuid>14834610-b3e7-4164-9e4c-87c5cb4af0d5</webElementGuid>
+      <webElementGuid>6ce7f089-743b-4e59-9bb8-9320cc3f298a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
-      <webElementGuid>7fc87404-e174-41ea-afaa-6a91213ca7d5</webElementGuid>
+      <webElementGuid>0af17cbb-94f5-4f48-91b6-4306b79b0b7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Proceed to checkout']/parent::*</value>
-      <webElementGuid>1597b9cd-db61-4d24-bc3d-2c31c99171e4</webElementGuid>
+      <webElementGuid>08ae63ae-b9e7-4903-a08f-ed95525278be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://cms.demo.katalon.com/checkout/')])[2]</value>
-      <webElementGuid>76ad0bad-0a69-4d93-90ea-978e3124fadc</webElementGuid>
+      <webElementGuid>6e83527c-2ed7-4115-b9fe-49ac86799167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/a</value>
-      <webElementGuid>bf1690b1-8d95-440f-b4a4-e394885ac43a</webElementGuid>
+      <webElementGuid>80af122d-2351-409d-bf0e-d6d50eef7bfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -144,6 +144,6 @@
       <value>//a[@href = 'https://cms.demo.katalon.com/checkout/' and (text() = '
 	Proceed to checkout' or . = '
 	Proceed to checkout')]</value>
-      <webElementGuid>63c5e8ce-6ed4-49a5-a9c9-dba70b957584</webElementGuid>
+      <webElementGuid>ea0819c4-5b6e-4aa5-b703-e362e67a36d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,11 @@
    <elementGuidId>5c134c3d-64e3-4d04-a1dd-7fa680c6ad7e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//tr[contains(@class, 'cart-discount')]/td/span[@class='woocommerce-Price-amount amount']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//tr[contains(@class, 'cart-discount')]/th</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

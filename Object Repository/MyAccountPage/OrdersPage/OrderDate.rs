@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OrderDate</name>
+   <tag></tag>
+   <elementGuidId>6d463b74-5301-4caa-9549-1fd113500af5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-10']/div/div/div/table/tbody/tr/td[2]/time</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>time</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Order: #143505 Date: March 27, 2025 Status: Processing Total: $32.00 for 1 item Actions: View&quot;i] >> internal:role=time</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>time</value>
+      <webElementGuid>6f916b2d-6e5d-4ccc-a219-a2794c8b7179</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>datetime</name>
+      <type>Main</type>
+      <value>2025-03-27T03:02:05+00:00</value>
+      <webElementGuid>a447f0b8-0781-47dc-ac53-c1f7cbd6e990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>March 27, 2025</value>
+      <webElementGuid>01b07a93-95e7-4e22-9925-5fd57bdf1ba3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-10&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/table[@class=&quot;woocommerce-orders-table woocommerce-MyAccount-orders shop_table shop_table_responsive my_account_orders account-orders-table&quot;]/tbody[1]/tr[@class=&quot;woocommerce-orders-table__row woocommerce-orders-table__row--status-processing order&quot;]/td[@class=&quot;woocommerce-orders-table__cell woocommerce-orders-table__cell-order-date&quot;]/time[1]</value>
+      <webElementGuid>eb57df3e-df9a-48d8-9473-6ff13aea8c0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-10']/div/div/div/table/tbody/tr/td[2]/time</value>
+      <webElementGuid>237c1764-73d0-4818-99a3-51251d792103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#143505'])[1]/following::time[1]</value>
+      <webElementGuid>4ff6d568-993f-40ca-8bb5-051657778143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::time[1]</value>
+      <webElementGuid>1ad6bbc8-16f4-4607-b56b-93d01a61b688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing'])[1]/preceding::time[1]</value>
+      <webElementGuid>247d2b47-67e7-4a98-9c8e-955cb7ebb970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='March 27, 2025']/parent::*</value>
+      <webElementGuid>1a7201a6-ad23-4ddf-964e-aa7f96afc261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//time</value>
+      <webElementGuid>ac2564c0-eb62-480a-9276-473ae4cff146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//time[(text() = 'March 27, 2025' or . = 'March 27, 2025')]</value>
+      <webElementGuid>3de97c56-3d6b-494c-88a0-569e916fb1b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

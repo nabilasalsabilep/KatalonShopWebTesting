@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e999ae8f-cef5-4225-a176-88d2aa6680d6</webElementGuid>
+      <webElementGuid>240ce923-0c33-462a-a28d-19d70fc3da95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select2-selection__rendered</value>
-      <webElementGuid>783fbcf3-51e4-4d29-9cab-07f05b4a3b8a</webElementGuid>
+      <webElementGuid>e8dbe20d-bf54-4a99-abb6-1917035cbd18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>select2-billing_country-container</value>
-      <webElementGuid>c52abb66-ca24-46f2-9eb8-96cb2d8cfc92</webElementGuid>
+      <webElementGuid>75c89c0d-0a1d-4cbf-a626-d69e6da64485</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>textbox</value>
-      <webElementGuid>04402cd0-54b8-4f82-94c6-ea9f2f65c32b</webElementGuid>
+      <webElementGuid>f692176e-7dbc-4d01-af3e-7c9aaa3a3b29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-readonly</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1360df76-e57c-4915-9711-c6e0018ff293</webElementGuid>
+      <webElementGuid>5283702a-22d5-4f6a-b67d-18cf143e5cc1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Indonesia</value>
-      <webElementGuid>b20e6f49-2ab3-43af-b63a-a33a328b0ffb</webElementGuid>
+      <webElementGuid>52fc537d-c702-497f-b343-0b01e35dd885</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Indonesia</value>
-      <webElementGuid>ac8fdd68-5c31-47a6-b0ea-ac40bd38d9dc</webElementGuid>
+      <webElementGuid>387900c1-9cdc-40f2-ac51-b1e8eb718037</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;select2-billing_country-container&quot;)</value>
-      <webElementGuid>b927a0ed-2c6e-4679-9b02-799f6bf622d2</webElementGuid>
+      <webElementGuid>d931f2d3-5894-4ec0-80f2-0ba4180d9a89</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='select2-billing_country-container']</value>
-      <webElementGuid>b08d6bc6-0056-4bcf-b729-776735a63a3e</webElementGuid>
+      <webElementGuid>d56cf25d-10eb-4be0-9028-2d881cfdf0eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//p[@id='billing_country_field']/span/span/span/span/span</value>
-      <webElementGuid>368273e2-2d13-4249-8e1e-693e9c5034e6</webElementGuid>
+      <webElementGuid>55665071-9ce9-402f-af1c-7dccf00afbfe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::span[5]</value>
-      <webElementGuid>dc34ca29-4840-4545-9aa9-b006701e4a52</webElementGuid>
+      <webElementGuid>5923156b-a04d-4cbe-9246-cac952d3435d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/preceding::span[3]</value>
-      <webElementGuid>c6300b26-91ff-4650-9cae-94eca4919218</webElementGuid>
+      <webElementGuid>9a24b2b5-03e8-45a4-9485-7934cc627cf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span/span/span/span</value>
-      <webElementGuid>2a88f021-6616-4cba-b80e-e2b909bd6f6e</webElementGuid>
+      <webElementGuid>87ffce7d-a0c4-4bae-af25-22232108035c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'select2-billing_country-container' and @title = 'Indonesia' and (text() = 'Indonesia' or . = 'Indonesia')]</value>
-      <webElementGuid>40cc7049-0182-44cd-826c-4424423562c3</webElementGuid>
+      <webElementGuid>e649f6d4-7ac3-4676-a47b-46b4274745cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

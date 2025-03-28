@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[text()=' “Happy Ninja” has been added to your cart.	']</value>
+         <value>//div[@class='woocommerce-message']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>a9e5f99f-0ef0-4bff-8525-7c85f9bcc97c</webElementGuid>
+      <webElementGuid>9ecf28ad-409c-4b0b-b9b0-102d4a48b1d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>woocommerce-message</value>
-      <webElementGuid>8c4bdb39-8953-4b93-8ca9-fea65c170423</webElementGuid>
+      <webElementGuid>adc07d86-ae8b-4f2d-baba-68a10c469ae7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>alert</value>
-      <webElementGuid>d701512e-0f57-4943-92be-d5db85969abc</webElementGuid>
+      <webElementGuid>86614ea8-8752-48d0-ada3-b62139e618ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <type>Main</type>
       <value>
 		View cart “Happy Ninja” has been added to your cart.	</value>
-      <webElementGuid>409b5f60-20cb-4643-b812-7c162fd27b3c</webElementGuid>
+      <webElementGuid>07030d6e-04c8-4b8f-adab-86d92755049f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;main&quot;)/div[@class=&quot;woocommerce-notices-wrapper&quot;]/div[@class=&quot;woocommerce-message&quot;]</value>
-      <webElementGuid>efc7fe76-d8c6-4e0b-a9e7-fdf1d398cda2</webElementGuid>
+      <webElementGuid>a9ed8f4e-7d91-452c-a6e8-f2c9c0d51f51</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//main[@id='main']/div/div</value>
-      <webElementGuid>eb48b594-77d4-4de2-9a97-da5e45784e51</webElementGuid>
+      <webElementGuid>a2c03185-82f7-4ba5-a60d-ac2e3d181eff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='T-shirts'])[1]/following::div[4]</value>
-      <webElementGuid>000a4a04-5003-4fe2-8b58-db54174b40d6</webElementGuid>
+      <webElementGuid>afb8a30e-5e85-4bba-bf35-6f07db561804</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clothing'])[1]/following::div[4]</value>
-      <webElementGuid>8ebf47fc-5e9e-4ec7-b272-c504d815755e</webElementGuid>
+      <webElementGuid>2d5d95be-db1f-41a4-86f7-3dfe63c57d7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Happy Ninja'])[1]/preceding::div[5]</value>
-      <webElementGuid>f467dfbb-66c0-40cd-adf5-44ba257cc607</webElementGuid>
+      <webElementGuid>4a14d46c-bc1a-43d6-8847-a71fab24dfad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='“Happy Ninja” has been added to your cart.']/parent::*</value>
-      <webElementGuid>2a4cfe73-7231-486a-8122-ba89bea911ba</webElementGuid>
+      <webElementGuid>ece556b7-ea7e-4339-a29d-8a1e08d05145</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//main/div/div</value>
-      <webElementGuid>32a71467-3d6d-4058-9dd5-02833de3be53</webElementGuid>
+      <webElementGuid>95513262-136b-4f53-886a-b28b9eb2ea0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -120,6 +120,6 @@
       <value>//div[(text() = '
 		View cart “Happy Ninja” has been added to your cart.	' or . = '
 		View cart “Happy Ninja” has been added to your cart.	')]</value>
-      <webElementGuid>9eda6fcb-3a6d-483a-a4aa-edc351687a61</webElementGuid>
+      <webElementGuid>9e894b0a-891f-4d16-84e1-47df4d92b487</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

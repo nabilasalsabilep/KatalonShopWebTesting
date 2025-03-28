@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//td[contains(@data-title, 'Coupon')]/span[@class='woocommerce-Price-amount amount']</value>
+         <value>//tr[contains(@class, 'cart-discount')]/th</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

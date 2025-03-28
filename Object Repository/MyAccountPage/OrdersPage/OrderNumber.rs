@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OrderNumber</name>
+   <tag></tag>
+   <elementGuidId>2a6772f8-5d58-471c-9a06-736120d2c455</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-10']/div/div/div/table/tbody/tr/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-number > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;#143505&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>864db430-dac9-4628-a4cf-702d7348bd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://cms.demo.katalon.com/my-account/view-order/143505/</value>
+      <webElementGuid>4e36740d-1716-45d9-a849-cbe447bd9916</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+									#143505								</value>
+      <webElementGuid>98a4a07b-0bbd-4054-95a4-7cbe1191ed95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-10&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/table[@class=&quot;woocommerce-orders-table woocommerce-MyAccount-orders shop_table shop_table_responsive my_account_orders account-orders-table&quot;]/tbody[1]/tr[@class=&quot;woocommerce-orders-table__row woocommerce-orders-table__row--status-processing order&quot;]/td[@class=&quot;woocommerce-orders-table__cell woocommerce-orders-table__cell-order-number&quot;]/a[1]</value>
+      <webElementGuid>0bf9fdd5-d9ff-4700-88d9-f231207929cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-10']/div/div/div/table/tbody/tr/td/a</value>
+      <webElementGuid>837dfc9b-6c99-4296-a2aa-9a12637193fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'#143505')]</value>
+      <webElementGuid>d08029f6-9b8f-4e1a-bad4-dde915680fb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::a[1]</value>
+      <webElementGuid>a3606980-d935-4a4b-b8d4-9768c5c1ee33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total'])[1]/following::a[1]</value>
+      <webElementGuid>7e64a75d-c0b0-4b6e-b721-34b52484eec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='March 27, 2025'])[1]/preceding::a[1]</value>
+      <webElementGuid>13cb2061-16d5-46bd-abc2-a68fb77ccad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing'])[1]/preceding::a[1]</value>
+      <webElementGuid>a02b4ffd-98d1-4b6a-8a9a-089370d026a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='#143505']/parent::*</value>
+      <webElementGuid>ac55042c-47cb-4f26-b6f5-63423c092824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://cms.demo.katalon.com/my-account/view-order/143505/')]</value>
+      <webElementGuid>02fcad02-7460-4df7-aed7-ef4f52fb14ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a</value>
+      <webElementGuid>509bc5d9-c1f9-4ea5-b523-4bec514f19f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://cms.demo.katalon.com/my-account/view-order/143505/' and (text() = '
+									#143505								' or . = '
+									#143505								')]</value>
+      <webElementGuid>7cedcaa5-8df1-47de-acf8-90d336099f18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
