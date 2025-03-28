@@ -1,4 +1,4 @@
-# Web Automated Testing with Katalon Studio
+# Katalon CMS QA: Web Automated Testing with Katalon Studio
 
 This repository serves as a dedicated space for storing code and resources related to my quality assurance learning and development journey. This repository is specifically designed to provide a comprehensive overview that focuses on UI automation testing for the [Katalon CMS Demo Website](https://cms.demo.katalon.com/) using Katalon Studio.
 
