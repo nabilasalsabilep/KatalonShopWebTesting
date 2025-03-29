@@ -16,39 +16,39 @@ In this repository, I created test scripts for one of the testing websites, Kata
 ## Detailed Overview of Test Cases 📝
 
 ### **Test 1: Successful Login ✅**
-**Objective:** Ensure that users with correct credentials can log in successfully.
-**Steps:**
+**Objective:** Ensure that users with correct credentials can log in successfully.  
+**Steps:**  
 1. Navigate to the login page.
 2. Enter a valid username and password.
 3. Click the login button.
 4. Verify that the homepage is displayed successfully.
 
 ### **Test 2: Add Multiple Products to Cart 🛒✅**
-**Objective:** Verify that users can add multiple products to the shopping cart.
-**Steps:**
+**Objective:** Verify that users can add multiple products to the shopping cart.  
+**Steps:**  
 1. Navigate to the products page.
 2. Select multiple products and add them to the cart.
 3. Verify that all selected products are displayed in the cart.
 
 ### **Test 3: Add to Cart with Coupon Code 🎟️🛒**
-**Objective:** Ensure that users can successfully apply a coupon code while adding items to the cart.
-**Steps:**
+**Objective:** Ensure that users can successfully apply a coupon code while adding items to the cart.  
+**Steps:**  
 1. Navigate to the products page.
 2. Add products to the cart.
 3. Enter a valid coupon code.
 4. Verify that the discount is applied to the total price.
 
 ### **Test 4: Update Cart 🔄🛒**
-**Objective:** Confirm that users can update the quantity of products in the cart.
-**Steps:**
+**Objective:** Confirm that users can update the quantity of products in the cart.  
+**Steps:**  
 1. Navigate to the products page.
 2. Add products to the cart.
 3. Modify the quantity of selected products.
 4. Verify that the updated quantity is reflected in the cart total.
 
 ### **Test 5: Checkout with User Address 📦🏠**
-**Objective:** Ensure that users can complete the checkout process using their saved address.
-**Steps:**
+**Objective:** Ensure that users can complete the checkout process using their saved address.  
+**Steps:**  
 1. Navigate to the products page.
 2. Add products to the cart.
 3. Proceed to checkout.
@@ -56,8 +56,8 @@ In this repository, I created test scripts for one of the testing websites, Kata
 5. Verify that the order confirmation page is displayed.
 
 ### **Test 6: Checkout with a Different Shipping Address 📦🚚**
-**Objective:** Validate that users can use a different shipping address during checkout.
-**Steps:**
+**Objective:** Validate that users can use a different shipping address during checkout.  
+**Steps:**  
 1. Navigate to the products page.
 2. Add products to the cart.
 3. Proceed to checkout.
@@ -65,8 +65,8 @@ In this repository, I created test scripts for one of the testing websites, Kata
 5. Verify that the order confirmation reflects the new address.
 
 ### **Test 7: Checkout with Coupon Code 🎟️💳**
-**Objective:** Ensure that users can apply a coupon code at checkout.
-**Steps:**
+**Objective:** Ensure that users can apply a coupon code at checkout.  
+**Steps:**  
 1. Navigate to the products page.
 2. Add products to the cart.
 3. Proceed to checkout.
