@@ -25,8 +25,8 @@ Feature: Cart feature
    	
   @UpdateCart	
   Scenario: User wants to update cart
-  	Given User open the website
-  	When User click Add to Cart 4 products
+    Given User open the website
+    When User click Add to Cart 4 products
     And Users input 2 quantities they want to add to the cart from the product detail page
     And User click Add to Cart product from detail product page
     And User click View Cart from detail product page

@@ -139,7 +139,7 @@ class Checkout {
 		double expectedOrderTotal = GlobalVariable.expectedSubtotal + flatfare - couponDiscount
 
 		WebUI.verifyMatch(String.format("%.2f", Double.parseDouble(actualOrderTotalText)), String.format("%.2f", expectedOrderTotal), false)
-		
+
 		GlobalVariable.finalTotal = expectedOrderTotal
 
 		println 'Order items on Checkout page match with the items on the Cart page'

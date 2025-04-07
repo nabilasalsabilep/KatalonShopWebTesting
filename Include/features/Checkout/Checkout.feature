@@ -4,9 +4,9 @@ Feature: Checkout feature
   @CheckoutwithUserAddress
   Scenario: User wants to successfully checkout products with one address
     Given User open the website
-   	And User open detail of the product
-   	And Users input 2 quantities they want to add to the cart from the product detail page
-   	And User click Add to Cart product from detail product page
+    And User open detail of the product
+    And Users input 2 quantities they want to add to the cart from the product detail page
+    And User click Add to Cart product from detail product page	
     And User click View Cart from detail product page
     And User verify the products inside the cart
     And User verify the Cart totals inside the cart
@@ -19,9 +19,9 @@ Feature: Checkout feature
   @CheckoutwithaDifferentShippingAddress
   Scenario: User wants to successfully checkout products with different shipping address
     Given User open the website
-   	And User open detail of the product
-   	And User click Add to Cart product from detail product page
-   	And User click View Cart from detail product page
+    And User open detail of the product
+    And User click Add to Cart product from detail product page
+    And User click View Cart from detail product page
     And User verify the products inside the cart
     And User verify the Cart totals inside the cart
     When User click Proceed to Checkout button
